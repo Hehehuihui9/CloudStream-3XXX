@@ -3,6 +3,14 @@
         "name": "Akwam",
         "url": "https://akwam.to",
         "status": 1
+
+{
+    "RedgifsRovider": {
+        "name": "Redgifs",
+        "url": "https://redgifs.com",
+        "status": 1
+
+
     },
     "AllAnimeProvider": {
         "name": "AllAnime",
